@@ -1,8 +1,7 @@
-ALL FILES ARE ZIPPED DUE TO SIZE UPLOAD CONSTRAINTS. SOME FILES MAY SEEM INCOMPLETE, THIS IS TO MAINTAIN PRIVACY AND INTEGRITY. 
+All files are zipped, therefore some projects may appear incomplete - this is to maintain privacy, integrity and intellectual property. 
 
-Note**
-JobSSE will NOT be featured both due to size and private/proprietary algorithms kept. This is due to a captcha web scraping exploit with active bounty so unfortunately this will NOT be included. Please do not request files.
-
+Note: JobSSE has code that will not be included due private/proprietary algorithms. Please do not request.
 
 
-ALL RIGHTS RESERVED, SEE LICENSE.md FOR MORE DETAILS.
+
+ALL RIGHTS RESERVED, PLEASE REFER TO LICENSE.md FOR MORE DETAILS.
