@@ -5,4 +5,4 @@ JobSSE will NOT be featured both due to size and private/proprietary algorithms 
 
 
 
-ALL RIGHTS RESERVED, SEE THE LICENSE FILE FOR MORE DETAILS.
+ALL RIGHTS RESERVED, SEE LICENSE.md FOR MORE DETAILS.
